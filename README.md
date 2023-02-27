@@ -9,7 +9,7 @@
 
 项目合作洽谈请联系微信`chengezhi2008`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
 
-|                    直接加群                     |               如果前面的无法使用，加我拉你入群               |                          赞赏                          |
+|                    直接加群                     |               如果前面的无法使用，加我拉你入群（加我送共享体验账号）               |                          赞赏                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/H4Ha/Chat-GPT-group-WeChat/main/ChatGPT.jpeg" width="300"/> | <img src="https://github.com/H4Ha/Chat-GPT-group-WeChat/blob/main/%E6%88%91%E7%9A%84%E5%BE%AE%E4%BF%A1.jpeg?raw=true" width="300"/> |  <img src="https://github.com/H4Ha/Chat-GPT-group-WeChat/blob/main/%E6%94%AF%E4%BB%98.jpeg?raw=true" width="300"/> |
 
